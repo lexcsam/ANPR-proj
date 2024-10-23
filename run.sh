@@ -15,5 +15,3 @@ docker exec -it ANPR_cont python licence_plate_recognizer.py
 # Remove the container once finished
 docker stop ANPR_cont
 docker rm ANPR_cont
-
-# This comment is just for testing purpose
